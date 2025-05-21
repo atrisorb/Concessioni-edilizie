@@ -46,10 +46,11 @@ def search():
 
     return jsonify([dict(row) for row in results])
 
+
 if __name__ == '__main__':
-    app.run(debug=True)
-    port = int(os.environ.get("PORT", 10000))  # Usa la porta fornita da Render
+    port = int(os.environ.get("PORT", 10000)) # Porta fornita da Render
     app.run(host='0.0.0.0', port=port)
+
 
 import sqlite3
 
