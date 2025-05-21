@@ -1,0 +1,12 @@
+
+numero_concessione,data_concessione,categoria_edificio,destinazione_uso,volume_mc,superficie_mq,planimetria_url,assegnatario_nome,assegnatario_tipo,comune,provincia,regione,fonte_dato,note
+12345,2023-01-15,Residenziale,Abitazione,500,150,http://example.com/planimetria1.pdf,Giovanni Rossi,Persona fisica,Roma,RM,Lazio,http://example.com/fonte1,Nota 1
+67890,2023-02-20,Commerciale,Ufficio,800,200,http://example.com/planimetria2.pdf,ABC Srl,Persona giuridica,Milano,MI,Lombardia,http://example.com/fonte2,Nota 2
+11223,2023-03-10,Industriale,Magazzino,1200,300,http://example.com/planimetria3.pdf,XYZ Spa,Persona giuridica,Napoli,NA,Campania,http://example.com/fonte3,Nota 3
+44556,2023-04-05,Residenziale,Abitazione,600,180,http://example.com/planimetria4.pdf,Maria Bianchi,Persona fisica,Palermo,PA,Sicilia,http://example.com/fonte4,Nota 4
+77889,2023-05-25,Commerciale,Negozio,700,220,http://example.com/planimetria5.pdf,DEF Srl,Persona giuridica,Torino,TO,Piemonte,http://example.com/fonte5,Nota 5
+33445,2023-06-15,Industriale,Capannone,1500,400,http://example.com/planimetria6.pdf,LMN Spa,Persona giuridica,Bologna,BO,Emilia-Romagna,http://example.com/fonte6,Nota 6
+99001,2023-07-30,Residenziale,Abitazione,550,160,http://example.com/planimetria7.pdf,Carlo Verdi,Persona fisica,Firenze,FI,Toscana,http://example.com/fonte7,Nota 7
+22334,2023-08-10,Commerciale,Ufficio,850,210,http://example.com/planimetria8.pdf,GHI Srl,Persona giuridica,Genova,GE,Liguria,http://example.com/fonte8,Nota 8
+55667,2023-09-20,Industriale,Magazzino,1300,350,http://example.com/planimetria9.pdf,OPQ Spa,Persona giuridica,Bari,BA,Puglia,http://example.com/fonte9,Nota 9
+88990,2023-10-05,Residenziale,Abitazione,600,170,http://example.com/planimetria10.pdf,Lucia Neri,Persona fisica,Cagliari,CA,Sardegna,http://example.com/fonte10,Nota 10
