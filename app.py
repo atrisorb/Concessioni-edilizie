@@ -1,4 +1,4 @@
-
+import os
 from flask import Flask, request, jsonify, render_template
 import sqlite3
 
@@ -50,7 +50,4 @@ def search():
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 10000)) # Porta fornita da Render
     app.run(host='0.0.0.0', port=port)
-
-
-import sqlite3
 
